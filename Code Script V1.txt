@@ -1,6 +1,6 @@
 repeat task.wait() until game:IsLoaded()
 notis = require(game.ReplicatedStorage:WaitForChild("Notification"))
-notis.new("<Color=White>Tên<Color=/>"):Display()
+notis.new("<Color=White>DUYKHA-HUB<Color=/>"):Display()
 notis.new("<Color=Blue>Founder: NDK_SEVEN<Color=/>"):Display() 
 notis.new("<Color=Red>Discord: Link Discord<Color=/>"):Display() 
 notis.new("<Color=Yellow>Exploit Use:<Color=/> ".. identifyexecutor()):Display() 
